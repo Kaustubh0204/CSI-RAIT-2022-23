@@ -123,3 +123,10 @@
 .newclass{
    margin-left: 33.4%;
 }
+@media screen and (max-width:800px) { 
+    .newclass{
+  margin-left: 0%;
+      
+    }
+
+}
