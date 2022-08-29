@@ -103,3 +103,9 @@
  
      }
     }
+    .newclass2{
+        background: #9FF0F4;
+      background: -webkit-linear-gradient(top left, #9FF0F4, #9DA4E0);
+      background: -moz-linear-gradient(top left, #9FF0F4, #9DA4E0);
+      background: linear-gradient(to bottom right, #9FF0F4, #9DA4E0);
+      }
